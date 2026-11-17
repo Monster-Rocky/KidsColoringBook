@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <circle cx="460" cy="310" r="120" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="555.46" y1="214.54" x2="597.89" y2="172.11" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="595" y1="310" x2="655" y2="310" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="555.46" y1="405.46" x2="597.89" y2="447.89" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="460" y1="445" x2="460" y2="505" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="364.54" y1="405.46" x2="322.11" y2="447.89" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="325" y1="310" x2="265" y2="310" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="364.54" y1="214.54" x2="322.11" y2="172.11" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="460" y1="175" x2="460" y2="115" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="280" cy="480" r="70" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="430" r="90" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="460" cy="440" r="85" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="540" cy="490" r="70" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="280" y="480" width="260" height="70" rx="20" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

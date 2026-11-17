@@ -1,0 +1,153 @@
+<UserControl x:Class="KidsColoringBook.Views.SettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1000"
+             Background="{StaticResource AppBackgroundBrush}">
+
+    <Grid Margin="30,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Grid Grid.Row="0" Margin="0,0,0,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource KidRoundButtonStyle}"
+                    Background="#9E9E9E" Width="140" Height="46"
+                    Command="{Binding BackCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="⬅" FontSize="18" Margin="0,0,8,0"/>
+                    <TextBlock Text="Home" FontSize="16"/>
+                </StackPanel>
+            </Button>
+
+            <TextBlock Grid.Column="1" Text="⚙ Settings &amp; Preferences"
+                       FontSize="28" FontWeight="Bold" Foreground="#2C3E50"
+                       FontFamily="{StaticResource KidFontFamily}"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+
+        <!-- Settings Cards Container -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <StackPanel MaxWidth="600" HorizontalAlignment="Center">
+
+                <!-- Child Name Card -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="200"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Child's Artist Name" FontSize="18" FontWeight="Bold" Foreground="#1E293B"/>
+                            <TextBlock Text="Appears automatically on printouts and saved artwork" FontSize="13" Foreground="#64748B" Margin="0,4,0,0"/>
+                        </StackPanel>
+                        <TextBox Grid.Column="1" Text="{Binding ChildName, UpdateSourceTrigger=PropertyChanged}"
+                                 FontSize="16" FontWeight="SemiBold" Height="42" VerticalContentAlignment="Center"
+                                 Padding="8,0" BorderBrush="#90CAF9" BorderThickness="2">
+                            <TextBox.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="10"/>
+                                </Style>
+                            </TextBox.Resources>
+                        </TextBox>
+                    </Grid>
+                </Border>
+
+                <!-- Fullscreen Mode Card -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Full-Screen Mode" FontSize="18" FontWeight="Bold" Foreground="#1E293B"/>
+                            <TextBlock Text="Immersive distraction-free full-screen experience for kids" FontSize="13" Foreground="#64748B" Margin="0,4,0,0"/>
+                        </StackPanel>
+                        <CheckBox Grid.Column="1" IsChecked="{Binding IsFullScreen}" VerticalAlignment="Center" Margin="10,0">
+                            <CheckBox.LayoutTransform>
+                                <ScaleTransform ScaleX="1.6" ScaleY="1.6"/>
+                            </CheckBox.LayoutTransform>
+                        </CheckBox>
+                    </Grid>
+                </Border>
+
+                <!-- Sound Effects Card -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Playful Sound Effects" FontSize="18" FontWeight="Bold" Foreground="#1E293B"/>
+                            <TextBlock Text="Cheerful click, pop, and chime sounds on actions" FontSize="13" Foreground="#64748B" Margin="0,4,0,0"/>
+                        </StackPanel>
+                        <CheckBox Grid.Column="1" IsChecked="{Binding SoundEffectsEnabled}" VerticalAlignment="Center" Margin="10,0">
+                            <CheckBox.LayoutTransform>
+                                <ScaleTransform ScaleX="1.6" ScaleY="1.6"/>
+                            </CheckBox.LayoutTransform>
+                        </CheckBox>
+                    </Grid>
+                </Border>
+
+                <!-- Default Brush Size -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="180"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Default Pencil Thickness" FontSize="18" FontWeight="Bold" Foreground="#1E293B"/>
+                            <TextBlock Text="Starting brush stroke thickness in pixels" FontSize="13" Foreground="#64748B" Margin="0,4,0,0"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+                            <Slider Minimum="2" Maximum="30" Value="{Binding DefaultBrushThickness}" Margin="0,0,0,4"/>
+                            <TextBlock Text="{Binding DefaultBrushThickness, StringFormat={}{0:0} px}" FontWeight="Bold"
+                                       Foreground="#0284C7" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+                <!-- Local Storage Info & Reset -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Offline Storage Used" FontSize="18" FontWeight="Bold" Foreground="#1E293B"/>
+                            <TextBlock Text="{Binding StorageUsageMb, StringFormat={}{0:0.00} MB of local artwork saved on this PC}"
+                                       FontSize="13" Foreground="#64748B" Margin="0,4,0,0"/>
+                        </StackPanel>
+                        <Button Grid.Column="1" Style="{StaticResource KidRoundButtonStyle}"
+                                Content="Clear Saved Art" Height="40" Padding="14,0"
+                                Background="#EF4444" Foreground="White" FontSize="13"
+                                Command="{Binding ClearDataCommand}"/>
+                    </Grid>
+                </Border>
+
+                <!-- About Card -->
+                <Border Style="{StaticResource KidCardStyle}" Padding="20" Margin="0,0,0,25" Background="#F8FAFC">
+                    <StackPanel HorizontalAlignment="Center">
+                        <TextBlock Text="Kids Coloring Book v1.0.0" FontSize="16" FontWeight="Bold" Foreground="#475569" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Modern, Lightweight, 100% Offline Desktop Game for Children" FontSize="13" Foreground="#94A3B8" HorizontalAlignment="Center" Margin="0,4,0,0"/>
+                        <TextBlock Text="Engineered with .NET 10 LTS &amp; WPF" FontSize="12" Foreground="#94A3B8" HorizontalAlignment="Center" Margin="0,2,0,0"/>
+                    </StackPanel>
+                </Border>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

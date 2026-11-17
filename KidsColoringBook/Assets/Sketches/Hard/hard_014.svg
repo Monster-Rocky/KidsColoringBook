@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <circle cx="400" cy="400" r="260" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="590" cy="400" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(90 590 400)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="534.35" cy="534.35" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(135 534.35 534.35)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="590" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(180 400 590)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="265.65" cy="534.35" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(225 265.65 534.35)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="210" cy="400" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(270 210 400)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="265.65" cy="265.65" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(315 265.65 265.65)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="210" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(360 400 210)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="534.35" cy="265.65" rx="45" ry="90" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(405 534.35 265.65)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="520" cy="400" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(90 520 400)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="484.85" cy="484.85" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(135 484.85 484.85)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="520" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(180 400 520)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="315.15" cy="484.85" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(225 315.15 484.85)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="280" cy="400" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(270 280 400)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="315.15" cy="315.15" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(315 315.15 315.15)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="280" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(360 400 280)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="484.85" cy="315.15" rx="30" ry="65" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" transform="rotate(405 484.85 315.15)" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="400" r="45" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

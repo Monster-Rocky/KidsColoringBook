@@ -1,0 +1,26 @@
+# Visual Studio & .NET Build Artifacts
+bin/
+obj/
+Publish/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local SDK & Tooling caches
+.dotnet_home/
+.nuget/
+.appdata/
+.tools/
+
+# Distribution archives & logs
+*.zip
+*.log
+push_to_github.ps1
+*.tmp
+
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini

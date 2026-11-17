@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <circle cx="400" cy="400" r="260" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="400,160 438.82,255.11 520,192.15 506.07,293.93 607.85,280 544.89,361.18 640,400 544.89,438.82 607.85,520 506.07,506.07 520,607.85 438.82,544.89 400,640 361.18,544.89 280,607.85 293.93,506.07 192.15,520 255.11,438.82 160,400 255.11,361.18 192.15,280 293.93,293.93 280,192.15 361.18,255.11" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="400,260 420.71,322.73 470,278.76 456.57,343.43 521.24,330 477.27,379.29 540,400 477.27,420.71 521.24,470 456.57,456.57 470,521.24 420.71,477.27 400,540 379.29,477.27 330,521.24 343.43,456.57 278.76,470 322.73,420.71 260,400 322.73,379.29 278.76,330 343.43,343.43 330,278.76 379.29,322.73" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="400" r="55" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="400" r="20" fill="#FFFFFF" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

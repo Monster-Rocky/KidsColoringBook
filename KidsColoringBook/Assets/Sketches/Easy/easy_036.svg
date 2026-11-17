@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <ellipse cx="509.5" cy="380" rx="55" ry="55" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(90 509.5 380)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="433.84" cy="484.14" rx="55" ry="55" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(162 433.84 484.14)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="311.41" cy="444.36" rx="55" ry="55" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(234 311.41 444.36)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="311.41" cy="315.64" rx="55" ry="55" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(306 311.41 315.64)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="433.84" cy="275.86" rx="55" ry="55" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(378 433.84 275.86)" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="380" r="60" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="390" y="240" width="20" height="140" rx="10" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="230" r="20" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

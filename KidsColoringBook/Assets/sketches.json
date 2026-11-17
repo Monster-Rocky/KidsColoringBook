@@ -1,0 +1,4202 @@
+[
+  {
+    "Id": "easy_001",
+    "Title": "Sweet Apple",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_001.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_001.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_001.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_002",
+    "Title": "Ripe Banana",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_002.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_002.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_002.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_003",
+    "Title": "Juicy Strawberry",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_003.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_003.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_003.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_004",
+    "Title": "Fresh Orange",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_004.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_004.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_004.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_005",
+    "Title": "Bunch of Grapes",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_005.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_005.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_005.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_006",
+    "Title": "Watermelon Slice",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_006.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_006.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_006.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_007",
+    "Title": "Sweet Cherries",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_007.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_007.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_007.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_008",
+    "Title": "Golden Pear",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_008.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_008.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_008.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_009",
+    "Title": "Tropical Pineapple",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_009.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_009.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_009.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_010",
+    "Title": "Sunny Lemon",
+    "Category": "Fruits",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_010.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_010.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_010.png",
+    "Tags": [
+      "fruits",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_011",
+    "Title": "Crunchy Carrot",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_011.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_011.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_011.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_012",
+    "Title": "Red Tomato",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_012.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_012.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_012.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_013",
+    "Title": "Green Broccoli",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_013.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_013.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_013.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_014",
+    "Title": "Autumn Pumpkin",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_014.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_014.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_014.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_015",
+    "Title": "Sweet Corn",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_015.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_015.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_015.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_016",
+    "Title": "Purple Eggplant",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_016.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_016.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_016.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_017",
+    "Title": "Bell Pepper",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_017.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_017.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_017.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_018",
+    "Title": "Forest Mushroom",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_018.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_018.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_018.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_019",
+    "Title": "Green Pea Pod",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_019.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_019.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_019.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_020",
+    "Title": "Fresh Radish",
+    "Category": "Vegetables",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_020.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_020.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_020.png",
+    "Tags": [
+      "vegetables",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_021",
+    "Title": "Heart Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_021.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_021.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_021.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_022",
+    "Title": "Round Party Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_022.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_022.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_022.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_023",
+    "Title": "Triple Balloon Bunch",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_023.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_023.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_023.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_024",
+    "Title": "Shiny Star Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_024.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_024.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_024.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_025",
+    "Title": "Balloon Puppy Dog",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_025.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_025.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_025.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_026",
+    "Title": "Hot Air Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_026.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_026.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_026.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_027",
+    "Title": "Cloud and Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_027.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_027.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_027.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_028",
+    "Title": "Ribbon Bow Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_028.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_028.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_028.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_029",
+    "Title": "Teddy with Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_029.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_029.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_029.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_030",
+    "Title": "Birthday Number Balloon",
+    "Category": "Balloons",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_030.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_030.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_030.png",
+    "Tags": [
+      "balloons",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_031",
+    "Title": "Bright Sunflower",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_031.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_031.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_031.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_032",
+    "Title": "Smiling Daisy",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_032.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_032.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_032.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_033",
+    "Title": "Spring Tulip",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_033.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_033.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_033.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_034",
+    "Title": "Lovely Rose",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_034.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_034.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_034.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_035",
+    "Title": "Water Lotus",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_035.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_035.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_035.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_036",
+    "Title": "Tropical Hibiscus",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_036.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_036.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_036.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_037",
+    "Title": "Golden Daffodil",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_037.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_037.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_037.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_038",
+    "Title": "White Lily",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_038.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_038.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_038.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_039",
+    "Title": "Garden Marigold",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_039.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_039.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_039.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_040",
+    "Title": "Flower in Clay Pot",
+    "Category": "Flowers",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_040.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_040.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_040.png",
+    "Tags": [
+      "flowers",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_041",
+    "Title": "Monarch Butterfly",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_041.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_041.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_041.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_042",
+    "Title": "Swallowtail Butterfly",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_042.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_042.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_042.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_043",
+    "Title": "Cute Cartoon Butterfly",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_043.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_043.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_043.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_044",
+    "Title": "Heart-Wing Butterfly",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_044.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_044.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_044.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_045",
+    "Title": "Spotted Ladybug",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_045.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_045.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_045.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_046",
+    "Title": "Striped Bumblebee",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_046.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_046.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_046.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_047",
+    "Title": "Friendly Caterpillar",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_047.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_047.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_047.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_048",
+    "Title": "Twin Flutter Butterflies",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_048.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_048.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_048.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_049",
+    "Title": "Butterfly on Daisy",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_049.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_049.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_049.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_050",
+    "Title": "Happy Little Snail",
+    "Category": "Butterflies",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_050.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_050.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_050.png",
+    "Tags": [
+      "butterflies",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_051",
+    "Title": "Swimming Goldfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_051.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_051.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_051.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_052",
+    "Title": "Striped Clownfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_052.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_052.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_052.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_053",
+    "Title": "Triangular Angelfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_053.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_053.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_053.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_054",
+    "Title": "Round Pufferfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_054.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_054.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_054.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_055",
+    "Title": "Ocean Starfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_055.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_055.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_055.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_056",
+    "Title": "Curly Sea Horse",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_056.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_056.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_056.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_057",
+    "Title": "Playful Dolphin",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_057.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_057.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_057.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_058",
+    "Title": "Spouting Baby Whale",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_058.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_058.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_058.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_059",
+    "Title": "Wobbly Jellyfish",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_059.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_059.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_059.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_060",
+    "Title": "Gentle Sea Turtle",
+    "Category": "Fish",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_060.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_060.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_060.png",
+    "Tags": [
+      "fish",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_061",
+    "Title": "Chatty Parrot",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_061.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_061.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_061.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_062",
+    "Title": "Wise Little Owl",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_062.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_062.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_062.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_063",
+    "Title": "Chilly Penguin",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_063.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_063.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_063.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_064",
+    "Title": "Swimming Duckling",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_064.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_064.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_064.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_065",
+    "Title": "Garden Sparrow",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_065.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_065.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_065.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_066",
+    "Title": "Pink Flamingo",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_066.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_066.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_066.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_067",
+    "Title": "Graceful Swan",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_067.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_067.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_067.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_068",
+    "Title": "Big-Beak Toucan",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_068.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_068.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_068.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_069",
+    "Title": "Tiny Hummingbird",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_069.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_069.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_069.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_070",
+    "Title": "City Pigeon",
+    "Category": "Birds",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_070.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_070.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_070.png",
+    "Tags": [
+      "birds",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_071",
+    "Title": "Shining Sun",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_071.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_071.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_071.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_072",
+    "Title": "Sun Behind Cloud",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_072.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_072.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_072.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_073",
+    "Title": "Sleeping Crescent Moon",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_073.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_073.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_073.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_074",
+    "Title": "Twinkling Star",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_074.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_074.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_074.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_075",
+    "Title": "Rainbow and Clouds",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_075.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_075.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_075.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_076",
+    "Title": "Shooting Comet Star",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_076.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_076.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_076.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_077",
+    "Title": "Cool Sun with Sunglasses",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_077.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_077.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_077.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_078",
+    "Title": "Ringed Planet Saturn",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_078.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_078.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_078.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_079",
+    "Title": "Rainy Cloud with Drops",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_079.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_079.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_079.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_080",
+    "Title": "Snowflake Crystal",
+    "Category": "Sun \u0026 Sky",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_080.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_080.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_080.png",
+    "Tags": [
+      "sun \u0026 sky",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_081",
+    "Title": "Happy Puppy",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_081.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_081.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_081.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_082",
+    "Title": "Cute Kitten",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_082.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_082.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_082.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_083",
+    "Title": "Fluffy Bunny",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_083.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_083.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_083.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_084",
+    "Title": "Little Elephant",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_084.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_084.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_084.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_085",
+    "Title": "Cuddly Teddy Bear",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_085.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_085.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_085.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_086",
+    "Title": "Friendly Little Lion",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_086.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_086.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_086.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_087",
+    "Title": "Cheerful Monkey",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_087.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_087.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_087.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_088",
+    "Title": "Playful Piglet",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_088.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_088.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_088.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_089",
+    "Title": "Spotted Dairy Cow",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_089.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_089.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_089.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_090",
+    "Title": "Woolly Sheep",
+    "Category": "Basic Animals",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_090.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_090.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_090.png",
+    "Tags": [
+      "basic animals",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_091",
+    "Title": "Swirl Ice Cream Cone",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_091.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_091.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_091.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_092",
+    "Title": "Frosted Cupcake",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_092.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_092.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_092.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_093",
+    "Title": "Donut with Sprinkles",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_093.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_093.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_093.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_094",
+    "Title": "Spiral Lollipop",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_094.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_094.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_094.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_095",
+    "Title": "Cake Slice with Candle",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_095.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_095.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_095.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_096",
+    "Title": "Wooden Toy Train",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_096.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_096.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_096.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_097",
+    "Title": "Spinning Top Toy",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_097.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_097.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_097.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_098",
+    "Title": "Diamond Flying Kite",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_098.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_098.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_098.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_099",
+    "Title": "Floating Toy Sailboat",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_099.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_099.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_099.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "easy_100",
+    "Title": "Rocking Horse",
+    "Category": "Treats \u0026 Toys",
+    "Difficulty": "Easy",
+    "SvgPath": "Assets/Sketches/Easy/easy_100.svg",
+    "PngPath": "Assets/Sketches/Easy/easy_100.png",
+    "ThumbnailPath": "Assets/Thumbnails/Easy/easy_100.png",
+    "Tags": [
+      "treats \u0026 toys",
+      "easy",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_001",
+    "Title": "Cozy Country Cottage",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_001.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_001.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_001.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_002",
+    "Title": "Fairy Mushroom House",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_002.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_002.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_002.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_003",
+    "Title": "Gingerbread House",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_003.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_003.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_003.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_004",
+    "Title": "Adventure Treehouse",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_004.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_004.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_004.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_005",
+    "Title": "Dutch Windmill",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_005.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_005.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_005.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_006",
+    "Title": "Coastal Lighthouse",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_006.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_006.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_006.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_007",
+    "Title": "Fairytale Castle",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_007.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_007.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_007.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_008",
+    "Title": "Red Farm Barn",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_008.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_008.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_008.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_009",
+    "Title": "Schoolhouse Bell Tower",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_009.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_009.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_009.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_010",
+    "Title": "Cozy Log Cabin",
+    "Category": "Houses",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_010.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_010.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_010.png",
+    "Tags": [
+      "houses",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_011",
+    "Title": "Vintage Beetle Car",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_011.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_011.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_011.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_012",
+    "Title": "Fire Truck with Ladder",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_012.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_012.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_012.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_013",
+    "Title": "Police Patrol Cruiser",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_013.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_013.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_013.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_014",
+    "Title": "Yellow School Bus",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_014.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_014.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_014.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_015",
+    "Title": "Ice Cream Truck",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_015.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_015.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_015.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_016",
+    "Title": "Sleek Sports Coupe",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_016.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_016.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_016.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_017",
+    "Title": "Giant Monster Truck",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_017.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_017.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_017.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_018",
+    "Title": "Classic City Taxi",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_018.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_018.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_018.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_019",
+    "Title": "Retro Camper Van",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_019.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_019.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_019.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_020",
+    "Title": "Beach Convertible",
+    "Category": "Cars",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_020.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_020.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_020.png",
+    "Tags": [
+      "cars",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_021",
+    "Title": "Classic Steam Engine",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_021.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_021.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_021.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_022",
+    "Title": "Passenger Express Train",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_022.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_022.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_022.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_023",
+    "Title": "Bullet Speed Train",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_023.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_023.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_023.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_024",
+    "Title": "Vintage Biplane",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_024.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_024.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_024.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_025",
+    "Title": "Passenger Jetliner",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_025.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_025.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_025.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_026",
+    "Title": "Rescue Helicopter",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_026.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_026.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_026.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_027",
+    "Title": "Pirate Sailing Ship",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_027.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_027.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_027.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_028",
+    "Title": "Ocean Cruise Liner",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_028.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_028.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_028.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_029",
+    "Title": "Deep Sea Submarine",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_029.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_029.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_029.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_030",
+    "Title": "Harbor Tugboat",
+    "Category": "Trains \u0026 Ships",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_030.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_030.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_030.png",
+    "Tags": [
+      "trains \u0026 ships",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_031",
+    "Title": "Tyrannosaurus Rex",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_031.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_031.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_031.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_032",
+    "Title": "Long-Neck Brachiosaurus",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_032.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_032.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_032.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_033",
+    "Title": "Three-Horn Triceratops",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_033.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_033.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_033.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_034",
+    "Title": "Armored Stegosaurus",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_034.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_034.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_034.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_035",
+    "Title": "Flying Pterodactyl",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_035.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_035.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_035.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_036",
+    "Title": "Swift Velociraptor",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_036.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_036.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_036.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_037",
+    "Title": "Club-Tail Ankylosaurus",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_037.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_037.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_037.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_038",
+    "Title": "Crested Parasaurolophus",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_038.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_038.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_038.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_039",
+    "Title": "Sail-Back Spinosaurus",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_039.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_039.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_039.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_040",
+    "Title": "Baby Dino Hatching",
+    "Category": "Dinosaurs",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_040.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_040.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_040.png",
+    "Tags": [
+      "dinosaurs",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_041",
+    "Title": "Detective Fox",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_041.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_041.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_041.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_042",
+    "Title": "Chef Raccoon",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_042.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_042.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_042.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_043",
+    "Title": "Astronaut Bear",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_043.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_043.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_043.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_044",
+    "Title": "Skater Squirrel",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_044.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_044.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_044.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_045",
+    "Title": "Aviator Dog",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_045.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_045.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_045.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_046",
+    "Title": "Doctor Cat",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_046.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_046.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_046.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_047",
+    "Title": "Painter Panda",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_047.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_047.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_047.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_048",
+    "Title": "Musician Frog",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_048.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_048.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_048.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_049",
+    "Title": "Builder Beaver",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_049.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_049.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_049.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_050",
+    "Title": "Surfer Koala",
+    "Category": "Cartoon Animals",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_050.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_050.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_050.png",
+    "Tags": [
+      "cartoon animals",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_051",
+    "Title": "Mighty Oak Tree",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_051.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_051.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_051.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_052",
+    "Title": "Winter Pine Tree",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_052.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_052.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_052.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_053",
+    "Title": "Japanese Bonsai",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_053.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_053.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_053.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_054",
+    "Title": "Weeping Willow",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_054.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_054.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_054.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_055",
+    "Title": "Tropical Palm Island",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_055.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_055.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_055.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_056",
+    "Title": "Saguaro Desert Cactus",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_056.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_056.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_056.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_057",
+    "Title": "Autumn Maple Tree",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_057.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_057.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_057.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_058",
+    "Title": "Apple Orchard Tree",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_058.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_058.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_058.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_059",
+    "Title": "Blooming Cherry Blossom",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_059.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_059.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_059.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_060",
+    "Title": "Giant Redwood Pines",
+    "Category": "Trees",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_060.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_060.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_060.png",
+    "Tags": [
+      "trees",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_061",
+    "Title": "Park Playground Swing",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_061.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_061.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_061.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_062",
+    "Title": "Stone Fountain",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_062.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_062.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_062.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_063",
+    "Title": "Vintage Flower Cart",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_063.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_063.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_063.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_064",
+    "Title": "Watering Can and Pots",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_064.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_064.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_064.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_065",
+    "Title": "Park Bench Under Lamp",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_065.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_065.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_065.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_066",
+    "Title": "Garden Gazebo",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_066.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_066.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_066.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_067",
+    "Title": "Stone Garden Path",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_067.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_067.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_067.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_068",
+    "Title": "Wooden Birdhouse",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_068.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_068.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_068.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_069",
+    "Title": "Glass Greenhouse",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_069.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_069.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_069.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_070",
+    "Title": "Picnic Basket and Blanket",
+    "Category": "Gardens",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_070.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_070.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_070.png",
+    "Tags": [
+      "gardens",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_071",
+    "Title": "Friendly Tin Robot",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_071.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_071.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_071.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_072",
+    "Title": "Clockwork Wind-up Toy",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_072.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_072.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_072.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_073",
+    "Title": "Robot with Gears",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_073.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_073.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_073.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_074",
+    "Title": "Stacking Rings \u0026 Blocks",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_074.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_074.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_074.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_075",
+    "Title": "Surprising Jack-in-the-Box",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_075.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_075.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_075.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_076",
+    "Title": "Toy Marching Drum",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_076.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_076.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_076.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_077",
+    "Title": "Wooden Marionette",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_077.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_077.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_077.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_078",
+    "Title": "Remote Control Racer",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_078.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_078.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_078.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_079",
+    "Title": "Colorful Yo-Yo",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_079.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_079.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_079.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_080",
+    "Title": "Toy Biplane",
+    "Category": "Toys \u0026 Robots",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_080.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_080.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_080.png",
+    "Tags": [
+      "toys \u0026 robots",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_081",
+    "Title": "Rooster on Fence",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_081.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_081.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_081.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_082",
+    "Title": "Mother Hen with Chicks",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_082.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_082.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_082.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_083",
+    "Title": "Grazing Horse",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_083.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_083.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_083.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_084",
+    "Title": "Farm Tractor in Field",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_084.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_084.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_084.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_085",
+    "Title": "Friendly Scarecrow",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_085.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_085.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_085.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_086",
+    "Title": "Cheerful Pig in Mud",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_086.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_086.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_086.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_087",
+    "Title": "Collie Herding Sheep",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_087.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_087.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_087.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_088",
+    "Title": "Rustic Water Well",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_088.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_088.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_088.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_089",
+    "Title": "Hay Bales \u0026 Fork",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_089.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_089.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_089.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_090",
+    "Title": "Farmer in Straw Hat",
+    "Category": "Farm Life",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_090.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_090.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_090.png",
+    "Tags": [
+      "farm life",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_091",
+    "Title": "Soccer Ball in Net",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_091.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_091.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_091.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_092",
+    "Title": "Basketball in Hoop",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_092.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_092.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_092.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_093",
+    "Title": "Vintage Cruiser Bicycle",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_093.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_093.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_093.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_094",
+    "Title": "Four-Wheel Roller Skates",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_094.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_094.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_094.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_095",
+    "Title": "Stunt Skateboard",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_095.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_095.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_095.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_096",
+    "Title": "Acoustic Guitar",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_096.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_096.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_096.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_097",
+    "Title": "Grand Piano Keys",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_097.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_097.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_097.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_098",
+    "Title": "Rock and Roll Drums",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_098.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_098.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_098.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_099",
+    "Title": "Shiny Brass Trumpet",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_099.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_099.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_099.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "medium_100",
+    "Title": "Classical Violin",
+    "Category": "Sports \u0026 Music",
+    "Difficulty": "Medium",
+    "SvgPath": "Assets/Sketches/Medium/medium_100.svg",
+    "PngPath": "Assets/Sketches/Medium/medium_100.png",
+    "ThumbnailPath": "Assets/Thumbnails/Medium/medium_100.png",
+    "Tags": [
+      "sports \u0026 music",
+      "medium",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_001",
+    "Title": "Majestic Lion with Mane",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_001.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_001.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_001.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_002",
+    "Title": "Ornate Mandala Elephant",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_002.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_002.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_002.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_003",
+    "Title": "Peacock with Tail Feathers",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_003.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_003.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_003.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_004",
+    "Title": "Wolf Howling at Moon",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_004.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_004.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_004.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_005",
+    "Title": "Barn Owl with Feather Patterns",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_005.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_005.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_005.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_006",
+    "Title": "Arabian Stallion",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_006.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_006.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_006.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_007",
+    "Title": "Bengal Tiger in Bamboo",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_007.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_007.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_007.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_008",
+    "Title": "Soaring Bald Eagle",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_008.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_008.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_008.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_009",
+    "Title": "Forest Stag with Antlers",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_009.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_009.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_009.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_010",
+    "Title": "Patterned Tree Chameleon",
+    "Category": "Detailed Animals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_010.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_010.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_010.png",
+    "Tags": [
+      "detailed animals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_011",
+    "Title": "Floral Rosette Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_011.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_011.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_011.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_012",
+    "Title": "Sacred Geometry Star Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_012.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_012.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_012.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_013",
+    "Title": "Sunburst Flame Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_013.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_013.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_013.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_014",
+    "Title": "Sacred Lotus Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_014.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_014.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_014.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_015",
+    "Title": "Celtic Knotwork Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_015.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_015.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_015.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_016",
+    "Title": "Kaleidoscope Dream Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_016.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_016.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_016.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_017",
+    "Title": "Winter Snowflake Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_017.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_017.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_017.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_018",
+    "Title": "Paisley Lace Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_018.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_018.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_018.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_019",
+    "Title": "Tribal Sun Ring Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_019.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_019.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_019.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_020",
+    "Title": "Zen Spiral Mandala",
+    "Category": "Mandala Patterns",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_020.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_020.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_020.png",
+    "Tags": [
+      "mandala patterns",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_021",
+    "Title": "Alpine Mountain Valley",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_021.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_021.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_021.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_022",
+    "Title": "Desert Dunes with Oasis",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_022.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_022.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_022.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_023",
+    "Title": "Ocean Shore Crashing Waves",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_023.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_023.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_023.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_024",
+    "Title": "Mountain River Waterfall",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_024.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_024.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_024.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_025",
+    "Title": "Grand Canyon Gorge",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_025.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_025.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_025.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_026",
+    "Title": "Terraced Rice Paddies",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_026.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_026.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_026.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_027",
+    "Title": "Misty Pine Valley",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_027.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_027.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_027.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_028",
+    "Title": "Tropical Coral Lagoon",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_028.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_028.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_028.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_029",
+    "Title": "Countryside Rolling Meadow",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_029.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_029.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_029.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_030",
+    "Title": "Arctic Glacier Icebergs",
+    "Category": "Landscapes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_030.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_030.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_030.png",
+    "Tags": [
+      "landscapes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_031",
+    "Title": "Coral Reef Marine Life",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_031.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_031.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_031.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_032",
+    "Title": "Sunken Pirate Galleon",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_032.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_032.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_032.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_033",
+    "Title": "Giant Octopus in Seaweed",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_033.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_033.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_033.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_034",
+    "Title": "Humpback Whales Diving",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_034.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_034.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_034.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_035",
+    "Title": "Bioluminescent Deep Sea",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_035.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_035.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_035.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_036",
+    "Title": "Anemone and Clownfish Pair",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_036.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_036.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_036.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_037",
+    "Title": "Sea Turtle over Coral",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_037.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_037.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_037.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_038",
+    "Title": "Ornate Seahorses in Kelp",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_038.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_038.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_038.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_039",
+    "Title": "Manta Ray over Seabed",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_039.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_039.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_039.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_040",
+    "Title": "Starfish Cavern",
+    "Category": "Underwater Scenes",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_040.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_040.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_040.png",
+    "Tags": [
+      "underwater scenes",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_041",
+    "Title": "Old European Cobblestone Street",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_041.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_041.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_041.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_042",
+    "Title": "Gothic Cathedral Facade",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_042.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_042.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_042.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_043",
+    "Title": "Venice Canal with Gondola",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_043.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_043.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_043.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_044",
+    "Title": "Futuristic Sci-Fi Metropolis",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_044.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_044.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_044.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_045",
+    "Title": "Japanese Pagoda and Bridge",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_045.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_045.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_045.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_046",
+    "Title": "City Skyline with Bridge",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_046.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_046.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_046.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_047",
+    "Title": "Dutch Canal Row Houses",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_047.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_047.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_047.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_048",
+    "Title": "Victorian Carriage Street",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_048.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_048.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_048.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_049",
+    "Title": "Taj Mahal Palace Reflection",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_049.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_049.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_049.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_050",
+    "Title": "Medieval Hilltop Castle",
+    "Category": "City Architecture",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_050.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_050.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_050.png",
+    "Tags": [
+      "city architecture",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_051",
+    "Title": "Wildflower Bouquet",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_051.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_051.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_051.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_052",
+    "Title": "Rose Bush with Buds",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_052.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_052.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_052.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_053",
+    "Title": "Water Lily Pond with Dragonflies",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_053.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_053.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_053.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_054",
+    "Title": "Succulent Terrarium",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_054.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_054.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_054.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_055",
+    "Title": "Tropical Jungle Orchids",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_055.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_055.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_055.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_056",
+    "Title": "Climbing Passionflower",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_056.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_056.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_056.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_057",
+    "Title": "Autumn Foliage Wreath",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_057.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_057.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_057.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_058",
+    "Title": "Sunflower Field Sunrise",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_058.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_058.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_058.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_059",
+    "Title": "Weathered Bonsai Rock",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_059.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_059.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_059.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_060",
+    "Title": "Cherry Blossoms with Lanterns",
+    "Category": "Botanical Florals",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_060.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_060.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_060.png",
+    "Tags": [
+      "botanical florals",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_061",
+    "Title": "Space Shuttle Launch",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_061.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_061.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_061.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_062",
+    "Title": "Space Station Orbit",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_062.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_062.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_062.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_063",
+    "Title": "Steampunk Flying Airship",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_063.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_063.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_063.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_064",
+    "Title": "Vintage Chopper Motorcycle",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_064.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_064.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_064.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_065",
+    "Title": "Steam Engine Mechanism",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_065.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_065.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_065.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_066",
+    "Title": "Lunar Rover on Moon",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_066.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_066.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_066.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_067",
+    "Title": "Tall Ship Full Rigging",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_067.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_067.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_067.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_068",
+    "Title": "Radio Telescope Observatory",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_068.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_068.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_068.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_069",
+    "Title": "Sci-Fi Hovercar",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_069.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_069.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_069.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_070",
+    "Title": "Formula Racing Car",
+    "Category": "Space \u0026 Tech",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_070.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_070.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_070.png",
+    "Tags": [
+      "space \u0026 tech",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_071",
+    "Title": "Mythical Dragon on Mountain",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_071.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_071.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_071.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_072",
+    "Title": "Winged Pegasus Soaring",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_072.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_072.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_072.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_073",
+    "Title": "Mermaid on Pearl Shell",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_073.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_073.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_073.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_074",
+    "Title": "Blazing Phoenix Reborn",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_074.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_074.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_074.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_075",
+    "Title": "Celestial Unicorn Glade",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_075.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_075.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_075.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_076",
+    "Title": "Wizard in Magic Library",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_076.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_076.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_076.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_077",
+    "Title": "Woodland Fairy Queen",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_077.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_077.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_077.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_078",
+    "Title": "Noble Griffin Guarding Spire",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_078.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_078.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_078.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_079",
+    "Title": "Ancient Tree Ent Spirit",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_079.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_079.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_079.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_080",
+    "Title": "Floating Castle in Clouds",
+    "Category": "Fantasy \u0026 Myth",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_080.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_080.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_080.png",
+    "Tags": [
+      "fantasy \u0026 myth",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_081",
+    "Title": "3D Isometric Cube Grid",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_081.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_081.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_081.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_082",
+    "Title": "Arabesque Interlocking Tile",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_082.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_082.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_082.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_083",
+    "Title": "Islamic 12-Point Star Lattice",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_083.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_083.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_083.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_084",
+    "Title": "Escher-Style Interlocking Birds",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_084.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_084.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_084.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_085",
+    "Title": "Honeycomb Floral Lattice",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_085.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_085.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_085.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_086",
+    "Title": "Optical Illusion Swirls",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_086.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_086.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_086.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_087",
+    "Title": "Moroccan Zellige Mosaic",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_087.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_087.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_087.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_088",
+    "Title": "Sacred Sri Yantra",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_088.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_088.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_088.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_089",
+    "Title": "Celtic Braided Ribbon",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_089.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_089.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_089.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_090",
+    "Title": "Circular Maze Labyrinth",
+    "Category": "Geometric Art",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_090.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_090.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_090.png",
+    "Tags": [
+      "geometric art",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_091",
+    "Title": "Imperial Chinese Dragon",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_091.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_091.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_091.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_092",
+    "Title": "Scandinavian Folk Hen",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_092.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_092.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_092.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_093",
+    "Title": "Day of the Dead Sugar Skull",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_093.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_093.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_093.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_094",
+    "Title": "Russian Matryoshka Dolls",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_094.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_094.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_094.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_095",
+    "Title": "Nordic Winter Reindeer",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_095.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_095.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_095.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_096",
+    "Title": "Venetian Carnival Mask",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_096.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_096.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_096.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_097",
+    "Title": "Indian Peacock Rangoli",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_097.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_097.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_097.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_098",
+    "Title": "Japanese Koi Fish Duo",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_098.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_098.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_098.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_099",
+    "Title": "Aztec Sun Stone Calendar",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_099.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_099.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_099.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  },
+  {
+    "Id": "hard_100",
+    "Title": "Boho Feathers Dreamcatcher",
+    "Category": "Festive \u0026 Cultural",
+    "Difficulty": "Hard",
+    "SvgPath": "Assets/Sketches/Hard/hard_100.svg",
+    "PngPath": "Assets/Sketches/Hard/hard_100.png",
+    "ThumbnailPath": "Assets/Thumbnails/Hard/hard_100.png",
+    "Tags": [
+      "festive \u0026 cultural",
+      "hard",
+      "coloring"
+    ]
+  }
+]

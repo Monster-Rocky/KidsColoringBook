@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <path d="M 400,600 C 260,500 240,320 400,320 C 560,320 540,500 400,600 Z" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="440.25" cy="310" rx="18" ry="22.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(90 440.25 310)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="412.44" cy="348.28" rx="18" ry="22.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(162 412.44 348.28)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="367.44" cy="333.66" rx="18" ry="22.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(234 367.44 333.66)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="367.44" cy="286.34" rx="18" ry="22.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(306 367.44 286.34)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="412.44" cy="271.72" rx="18" ry="22.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(378 412.44 271.72)" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="310" r="20" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="340" cy="400" r="8" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="460" cy="400" r="8" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="460" r="8" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="510" r="7" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="440" cy="510" r="7" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

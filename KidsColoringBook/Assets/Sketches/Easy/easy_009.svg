@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <ellipse cx="400" cy="480" rx="140" ry="190" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="280" y1="280" x2="520" y2="240" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="240" x2="520" y2="280" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="320" x2="520" y2="280" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="280" x2="520" y2="320" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="360" x2="520" y2="320" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="320" x2="520" y2="360" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="400" x2="520" y2="360" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="360" x2="520" y2="400" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="440" x2="520" y2="400" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="400" x2="520" y2="440" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="480" x2="520" y2="440" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="440" x2="520" y2="480" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="520" x2="520" y2="480" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <line x1="280" y1="480" x2="520" y2="520" stroke="#000000" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M 350,300 C 320,180 340,160 360,150 C 380,220 380,260 380,300 Z" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 400,300 C 390,150 410,130 420,130 C 430,200 420,260 420,300 Z" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 450,300 C 480,180 460,160 440,150 C 420,220 420,260 420,300 Z" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

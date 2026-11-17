@@ -1,0 +1,112 @@
+<UserControl x:Class="KidsColoringBook.Views.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1000"
+             Background="{StaticResource AppBackgroundBrush}">
+
+    <Grid Margin="40,25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header Banner -->
+        <StackPanel HorizontalAlignment="Center" Margin="0,10,0,25">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="🎨 " FontSize="38" VerticalAlignment="Center"/>
+                <TextBlock Text="Kids Coloring Book" FontSize="40" FontWeight="Bold"
+                           Foreground="#2B3A42" FontFamily="{StaticResource KidFontFamily}" VerticalAlignment="Center"/>
+                <TextBlock Text=" ✨" FontSize="38" VerticalAlignment="Center"/>
+            </StackPanel>
+            <TextBlock Text="Pick a sketch, splash magical colours, or draw your own masterpiece!"
+                       FontSize="18" FontWeight="SemiBold" Foreground="#7F8C8D"
+                       HorizontalAlignment="Center" Margin="0,5,0,0" FontFamily="{StaticResource KidFontFamily}"/>
+        </StackPanel>
+
+        <!-- 6 Main Big Dashboard Tiles -->
+        <UniformGrid Grid.Row="1" Rows="2" Columns="3" Margin="20,0,20,10">
+            
+            <!-- 1. Start Coloring -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#FF6B6B" Margin="14"
+                    Command="{Binding StartColoringCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="🖍" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Start Coloring" FontSize="22" FontWeight="Bold" Foreground="White"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="300 Easy, Medium &amp; Hard Sketches" FontSize="13" FontWeight="SemiBold"
+                               Foreground="#FFF3F3" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 2. My Drawings -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#4D96FF" Margin="14"
+                    Command="{Binding MyDrawingsCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="🖼" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="My Drawings" FontSize="22" FontWeight="Bold" Foreground="White"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="View, Edit &amp; Showcase Saved Art" FontSize="13" FontWeight="SemiBold"
+                               Foreground="#EBF3FF" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 3. Draw Your Own Sketch -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#6BCB77" Margin="14"
+                    Command="{Binding DrawOwnCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="✏" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Draw Your Own" FontSize="22" FontWeight="Bold" Foreground="White"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Blank Canvas, Shapes &amp; Freehand" FontSize="13" FontWeight="SemiBold"
+                               Foreground="#EFFFF2" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 4. Print Gallery -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#FFD93D" Margin="14"
+                    Command="{Binding PrintGalleryCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="🖨" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Print Gallery" FontSize="22" FontWeight="Bold" Foreground="#3E2723"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Print B&amp;W or Coloured Sketches" FontSize="13" FontWeight="Bold"
+                               Foreground="#5D4037" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 5. Settings -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#9D4EDD" Margin="14"
+                    Command="{Binding SettingsCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="⚙" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Settings" FontSize="22" FontWeight="Bold" Foreground="White"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Full-Screen, Sounds &amp; Artist Name" FontSize="13" FontWeight="SemiBold"
+                               Foreground="#F5E8FF" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 6. Exit -->
+            <Button Style="{StaticResource DashboardTileStyle}"
+                    Background="#9E9E9E" Margin="14"
+                    Command="{Binding ExitCommand}">
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock Text="🚪" FontSize="56" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Exit App" FontSize="22" FontWeight="Bold" Foreground="White"
+                               Margin="0,10,0,4" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Goodbye &amp; See You Soon!" FontSize="13" FontWeight="SemiBold"
+                               Foreground="#EEEEEE" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+
+        </UniformGrid>
+    </Grid>
+</UserControl>

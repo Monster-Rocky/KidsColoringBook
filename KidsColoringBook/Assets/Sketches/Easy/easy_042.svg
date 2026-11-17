@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <ellipse cx="400" cy="390" rx="20" ry="120" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="255" r="28" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="270" cy="310" rx="110" ry="70" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(-25 270 310)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="530" cy="310" rx="110" ry="70" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(25 530 310)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="300" cy="450" rx="80" ry="50" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(20 300 450)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="500" cy="450" rx="80" ry="50" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(-20 500 450)" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="270,480 240,580 290,500" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="530,480 560,580 510,500" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

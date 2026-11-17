@@ -1,0 +1,60 @@
+<Window x:Class="KidsColoringBook.Views.ConfirmDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Confirmation"
+        Height="260" Width="440"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent">
+
+    <Border BorderBrush="#FFA726" BorderThickness="4" CornerRadius="20" Background="#FFFFFF" Padding="25">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Title -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+                <TextBlock Text="🤔 " FontSize="28" VerticalAlignment="Center"/>
+                <TextBlock x:Name="TxtTitle" Text="Are You Sure?"
+                           FontSize="22" FontWeight="Bold" Foreground="#D84315"
+                           FontFamily="Comic Sans MS, Segoe UI" VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <!-- Message -->
+            <TextBlock x:Name="TxtMessage" Grid.Row="1"
+                       Text="Do you want to reset your sketch? All coloring will be cleared!"
+                       TextWrapping="Wrap" TextAlignment="Center"
+                       FontSize="16" FontWeight="SemiBold" Foreground="#424242"
+                       VerticalAlignment="Center" Margin="10,0"/>
+
+            <!-- Buttons -->
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <Button Content="✔ Yes, Proceed" Width="140" Height="44"
+                        Background="#4CAF50" Foreground="White"
+                        FontWeight="Bold" FontSize="15"
+                        Margin="0,0,15,0" Click="OnYesClick">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="22"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button Content="✖ No, Keep It" Width="140" Height="44"
+                        Background="#E53935" Foreground="White"
+                        FontWeight="Bold" FontSize="15"
+                        Click="OnNoClick">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="22"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

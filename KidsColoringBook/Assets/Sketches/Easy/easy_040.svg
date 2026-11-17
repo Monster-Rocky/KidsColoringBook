@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#FFFFFF"/>
+  <ellipse cx="479.25" cy="280" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(90 479.25 280)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="456.04" cy="336.04" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(135 456.04 336.04)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="359.25" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(180 400 359.25)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="343.96" cy="336.04" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(225 343.96 336.04)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="320.75" cy="280" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(270 320.75 280)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="343.96" cy="223.96" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(315 343.96 223.96)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="400" cy="200.75" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(360 400 200.75)" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="456.04" cy="223.96" rx="25" ry="32.5" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" transform="rotate(405 456.04 223.96)" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="280" r="50" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="400" cy="280" r="45" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="390" y="340" width="20" height="120" rx="8" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="310,460 490,460 460,640 340,640" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="290" y="440" width="220" height="30" rx="8" fill="#FFFFFF" stroke="#000000" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
